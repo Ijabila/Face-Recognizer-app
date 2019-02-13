@@ -1,2 +1,2 @@
 # Face-Recognizer-app
-A face recognition web app
+This is a face recognition app bult using ReactJS.
